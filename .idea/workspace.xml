@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54214f86-aac1-4824-8bee-c1a7bc3e4f42" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="28uZKn7OiF1diHLQQhMSfVaCRcg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="54214f86-aac1-4824-8bee-c1a7bc3e4f42" name="变更" comment="" />
+      <created>1652068373514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652068373514</updated>
+      <workItem from="1652068375665" duration="91000" />
+      <workItem from="1652069102248" duration="2000" />
+      <workItem from="1652069157536" duration="8000" />
+      <workItem from="1652069183728" duration="6000" />
+      <workItem from="1652069239906" duration="744000" />
+      <workItem from="1652071198545" duration="207000" />
+      <workItem from="1652071436088" duration="5000" />
+      <workItem from="1652071454771" duration="52000" />
+      <workItem from="1652236242931" duration="77000" />
+      <workItem from="1652237764839" duration="2000" />
+      <workItem from="1652237864885" duration="7000" />
+      <workItem from="1652237904184" duration="2000" />
+      <workItem from="1652237957320" duration="276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
